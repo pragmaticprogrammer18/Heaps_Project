@@ -6,4 +6,4 @@ This project written for a class that simulated crakcing pin numbers using of a 
 
 `make` compiles the project into an executable
 
-'make run' executes the executable
+`make run` executes the executable
